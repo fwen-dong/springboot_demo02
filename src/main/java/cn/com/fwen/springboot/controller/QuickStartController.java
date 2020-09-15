@@ -15,7 +15,7 @@ public class QuickStartController {
 
     @RequestMapping("/quick")
     public @ResponseBody String quick(){
-        System.out.println("测试....");
+        System.out.println("测试0000000");
         return "springboot 访问成功!name="+name+"age="+age;
     }
 }
