@@ -1,0 +1,9 @@
+#服务器相关配置
+server:
+  #配置访问端口
+  port: 8090
+
+
+person:
+   name: lisi
+   age: 18
